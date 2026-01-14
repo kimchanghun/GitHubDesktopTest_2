@@ -8,6 +8,8 @@ public class GithubDesktopTest : MonoBehaviour
     {
         print("a");
         print("b");
+        print("c");
+        print("one");
     }
 
     void Update()
