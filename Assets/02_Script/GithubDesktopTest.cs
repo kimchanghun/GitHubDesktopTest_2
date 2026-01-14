@@ -6,7 +6,7 @@ public class GithubDesktopTest : MonoBehaviour
 
     void Start()
     {
-        
+        print("a");
     }
 
     void Update()
